@@ -43,8 +43,9 @@ Example placeholder (replace with your own file once uploaded):
 ## 🎬 Animations  
 
 **Perovskite Solar Cell Animation**  
+<h3>Perovskite Solar Cell Animation</h3>
 <video width="400" controls>
   <source src="Perovskite.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
+
 
