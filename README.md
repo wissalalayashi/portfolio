@@ -40,5 +40,5 @@ Example placeholder (replace with your own file once uploaded):
 **Band Gap Animation**  
 ![Band Gap Animation](assets/animations/bandgap.gif)  
 
-![Perovskite Animation](Perovskite1.gif)
+![Perovskite Animation](RECOVER_Perovskite-1.gif)
 
