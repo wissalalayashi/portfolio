@@ -40,8 +40,10 @@ Example placeholder (replace with your own file once uploaded):
 **Band Gap Animation**  
 ![Band Gap Animation](assets/animations/bandgap.gif)  
 
-```html
-<!-- For MP4 video playback -->
+## 🎬 Animations  
+
+**Perovskite Solar Cell Animation**  
 <video width="400" controls>
-  <source src="assets/animations/bandgap.mp4" type="video/mp4">
+  <source src="Perovskite.mp4" type="video/mp4">
 </video>
+
