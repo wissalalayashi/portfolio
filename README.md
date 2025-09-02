@@ -25,7 +25,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ![Etching Process](Etching.png)  
 
 **Cell Assembly**  
-![Cell Assembly](Cell-Assembly.png)  
+![Cell Assembly](Cell-assembly.png)  
 
 ---
 
