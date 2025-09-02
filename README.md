@@ -42,8 +42,7 @@ Example placeholder (replace with your own file once uploaded):
 
 ## 🎬 Animations  
 
-**Perovskite Solar Cell Animation**  
-![Perovskite Animation](Perovskite1.gif)
+
 
 
 
