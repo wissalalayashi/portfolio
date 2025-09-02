@@ -40,8 +40,6 @@ Example placeholder (replace with your own file once uploaded):
 **Band Gap Animation**  
 ![Band Gap Animation](assets/animations/bandgap.gif)  
 
-## 🎬 Animations  
-
 **Perovskite Solar Cell Animation**  
 ![Perovskite Animation](Perovskite1.gif)
 
