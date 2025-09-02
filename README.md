@@ -22,7 +22,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ![PVD Process](PVD.png)  
 
 **Etching Process**  
-![Etching Process](Etching.png)  
+![Etching Process](Etching-profiles.png)  
 
 **Cell Assembly**  
 ![Cell Assembly](Cell-assembly.png)  
