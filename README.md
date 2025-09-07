@@ -29,7 +29,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 
 **Cell Assembly**  
 ![Cell Assembly](Cell-assembly.png)  
-*Visual representation of the lift-off process used in photolithography. Helps explain how patterned films are deposited and unwanted material removed.*  
+*Step-by-step illustration of dye-sensitized solar cell (DSSC) assembly. Shows the deposition of TiO₂ and Pt electrodes, dye sensitization, sealing, and electrolyte filling to complete the device structure.*  
 
 ---
 
