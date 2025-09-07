@@ -43,3 +43,8 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ![Perovskite Animation](RECOVER_Perovskite-1.gif)
 *Animation of energy band alignment in perovskite solar cells. Helps students visualize how perovskite materials improve light absorption and carrier mobility.*  
 
+**Gear Motion Animation**  
+![Gear Animation](gears.gif)  
+*Demonstrates rotational motion and gear ratio concepts. Useful for teaching mechanical systems and basic engineering physics.*  
+
+
