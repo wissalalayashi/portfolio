@@ -1,5 +1,4 @@
 # Wissal Alayashi, PhD  
-**NanoSketch Studio**  
 *STEM Animations & Technical Illustrations for Science and Engineering Education*  
 
 ---
@@ -14,6 +13,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 
 **DSSC Energy Band**  
 ![DSSC Energy Band](DSSC-Energy-Band.png)  
+*Illustrates electron–hole separation and charge transport in dye-sensitized solar cells. Designed to support instruction in renewable energy and semiconductor physics.*  
 
 **Perovskite Structure**  
 ![Perovskite Structure](Perovskite.png)  
