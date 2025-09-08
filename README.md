@@ -17,24 +17,24 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 *Illustrates electron–hole separation and charge transport in dye-sensitized solar cells. Designed to support instruction in renewable energy and semiconductor physics.*  
 
 
-
-**Pendulum Motion on a Swing**  
-<img src="swings.png" alt="swings" width="800"> 
-
-*Illustration of a swing modeled as a pendulum with a 2 m chain, oscillating up to ±30° from the vertical. Useful for teaching concepts of simple harmonic motion, angular displacement, and energy transformation in mechanics.*  
-
 **Lift-off vs. Etching**  
 <img src="Lift-off-&-etching.png" alt="Lift-off-&-etching" width="800"> 
 
 *Side-by-side comparison of two photolithography-based patterning techniques. The lift-off process demonstrates how a deposited metal layer is patterned by dissolving photoresist, while the etching process shows selective material removal after UV exposure and development. Useful for teaching semiconductor device fabrication methods.*  
 
 **Etching Process**  
-![Etching Process](Etching-profiles.png)  
+<img src="Etching-profiles.png" alt="Etching-profiles" width="800">
+
 *Shows the stages of material removal using wet and dry etching. Explains how etching defines micro- and nano-scale features in semiconductor devices.*  
 
 **Cell Assembly**  
 ![Cell Assembly](Cell-assembly.png)  
 *Step-by-step illustration of dye-sensitized solar cell (DSSC) assembly. Shows the deposition of TiO₂ and Pt electrodes, dye sensitization, sealing, and electrolyte filling to complete the device structure.*  
+
+**Pendulum Motion on a Swing**  
+<img src="swings.png" alt="swings" width="800"> 
+
+*Illustration of a swing modeled as a pendulum with a 2 m chain, oscillating up to ±30° from the vertical. Useful for teaching concepts of simple harmonic motion, angular displacement, and energy transformation in mechanics.*  
 
 ---
 
