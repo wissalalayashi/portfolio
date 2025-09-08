@@ -20,7 +20,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 
 **Perovskite Structure**  
 <img src="Perovskite.png" alt="Perovskite" width="600"> 
-![Perovskite Structure](Perovskite.png)  
+
 *Highlights the layered structure of perovskite solar cells. Useful for understanding material interfaces and photovoltaic design.*  
 
 **Lift-off vs. Etching**  
