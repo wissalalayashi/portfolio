@@ -12,7 +12,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ## 🖼️ Semiconductor Diagrams  
 
 **Pendulum Motion on a Swing**  
-<img src="DSSC-Energy-Band.png" alt="DSSC Energy Band" width="800"> 
+<img src="DSSC-Energy-Band.png" alt="DSSC Energy Band" width="1000"> 
 
 *Illustration of a swing modeled as a pendulum with a 2 m chain, oscillating up to ±30° from the vertical. Useful for teaching concepts of simple harmonic motion, angular displacement, and energy transformation in mechanics.*  
 
