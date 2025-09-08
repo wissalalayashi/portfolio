@@ -55,3 +55,7 @@ I create clear, engaging scientific illustrations and animations that make compl
 ![Photolithography Process Animation](PhotoLithography.gif)  
 *Step-by-step animation of the photolithography process, including photoresist coating, UV exposure, development, and pattern transfer. Helps students visualize how micro- and nano-scale circuit patterns are created in semiconductor fabrication.*  
 
+**Semiconductor Bandgap Animation**
+![Band-gap-coloured](Band-gap-coloured.gif)  
+Blue characters represent electrons (e⁻), and red hollow characters represent holes (h⁺). A photon (hv) excites an electron from the valence band to the conduction band, leaving behind a hole. The vertical arrow (Eg) marks the bandgap energy. This illustrates charge carrier generation, the foundation of semiconductor operation.
+
