@@ -46,7 +46,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 
 **Perovskite Solar Cell Animation** 
 ![Perovskite Animation](RECOVER_Perovskite-1.gif)
-*Animation of energy band alignment in perovskite solar cells. Helps students visualize how perovskite materials improve light absorption and carrier mobility.*  
+*Step-by-step animation showing how light absorption in the perovskite layer generates electron–hole pairs, with electrons transported through the ETL and holes through the HTL to the electrodes. Demonstrates the photovoltaic mechanism and charge separation that make perovskite solar cells highly efficient.*  
 
 **Gear Motion Animation**  
 ![Gear Animation](gears.gif)  
