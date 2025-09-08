@@ -24,7 +24,8 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 *Illustration of a swing modeled as a pendulum with a 2 m chain, oscillating up to ±30° from the vertical. Useful for teaching concepts of simple harmonic motion, angular displacement, and energy transformation in mechanics.*  
 
 **Lift-off vs. Etching**  
-![Lift-off vs. Etching](Lift-off-&-etching.png)  
+<img src="Lift-off-&-etching.png" alt="Lift-off-&-etching" width="800"> 
+
 *Side-by-side comparison of two photolithography-based patterning techniques. The lift-off process demonstrates how a deposited metal layer is patterned by dissolving photoresist, while the etching process shows selective material removal after UV exposure and development. Useful for teaching semiconductor device fabrication methods.*  
 
 **Etching Process**  
