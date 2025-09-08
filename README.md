@@ -47,4 +47,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ![Gear Animation](gears.gif)  
 *Demonstrates rotational motion and gear ratio concepts. Useful for teaching mechanical systems and basic engineering physics.*  
 
+**Photolithography Process Animation**  
+![Photolithography Process Animation](PhotoLithography.gif)  
+*Step-by-step animation of the photolithography process, including photoresist coating, UV exposure, development, and pattern transfer. Helps students visualize how micro- and nano-scale circuit patterns are created in semiconductor fabrication.*  
 
