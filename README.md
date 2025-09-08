@@ -19,9 +19,9 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ![Perovskite Structure](Perovskite.png)  
 *Highlights the layered structure of perovskite solar cells. Useful for understanding material interfaces and photovoltaic design.*  
 
-**PVD Process**  
-![PVD Process](PVD.png)  
-*Schematic of Physical Vapor Deposition. Useful for teaching thin-film fabrication and materials processing methods in engineering courses.*  
+**Lift-off vs. Etching**  
+![Lift-off vs. Etching](Lift-off-&-etching.png)  
+*Side-by-side comparison of two photolithography-based patterning techniques. The lift-off process demonstrates how a deposited metal layer is patterned by dissolving photoresist, while the etching process shows selective material removal after UV exposure and development. Useful for teaching semiconductor device fabrication methods.*  
 
 **Etching Process**  
 ![Etching Process](Etching-profiles.png)  
