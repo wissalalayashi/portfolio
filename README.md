@@ -4,8 +4,7 @@
 ---
 
 ## 📘 About  
-I create clear, engaging scientific illustrations and animations that make complex STEM concepts accessible for students, educators, and publishers. My work focuses on semiconductors, photovoltaics, display technologies, and microfabrication processes, with the goal of supporting high-quality STEM teaching and learning through accurate, visually intuitive content.
-
+I create clear, engaging scientific illustrations and animations that make complex STEM concepts accessible for students, educators, and publishers. My portfolio spans topics across physics, renewable energy, materials science, and engineering processes, always with a focus on accuracy and visual clarity.
 ---
 
 ## 🖼️ Semiconductor Diagrams  
