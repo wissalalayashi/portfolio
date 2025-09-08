@@ -46,7 +46,7 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 
 **Perovskite Solar Cell Animation** 
 ![Perovskite Animation](RECOVER_Perovskite-1.gif)
-*Step-by-step animation showing how light absorption in the perovskite layer generates electron–hole pairs, with electrons transported through the ETL and holes through the HTL to the electrodes. Demonstrates the photovoltaic mechanism and charge separation that make perovskite solar cells highly efficient.*  
+*Layers (top→bottom): **Metal** — back electrode; **ETL** — electron transport to the electrode; **Perovskite** — light-absorbing active layer; **HTL** — hole transport to the electrode; **TCO** — **transparent conductive oxide** (e.g., ITO or FTO) that is optically transparent and acts as the front electrode for charge collection; **Glass** — rigid, transparent substrate.*  
 
 **Gear Motion Animation**  
 ![Gear Animation](gears.gif)  
