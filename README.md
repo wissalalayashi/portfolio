@@ -2,9 +2,10 @@
 *STEM Animations & Technical Illustrations for Science and Engineering Education*  
 
 ---
-
 ## 📘 About  
-I create clear, engaging scientific illustrations and animations that make complex STEM concepts accessible for students, educators, and publishers. My portfolio spans topics across physics, renewable energy, materials science, and engineering processes, always with a focus on accuracy and visual clarity.
+
+I create clear, engaging scientific illustrations and animations that make complex STEM concepts accessible for students, educators, and publishers. My portfolio spans topics across physics, renewable energy, materials science, and engineering processes, always with a focus on accuracy and visual clarity.  
+
 ---
 
 ## 🖼️ Semiconductor Diagrams  
