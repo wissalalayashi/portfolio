@@ -12,14 +12,14 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ## 🖼️ Semiconductor Diagrams  
 
 **DSSC Energy Band**  
-<img src="DSSC-Energy-Band.png" alt="DSSC Energy Band" width="6000"> 
+<img src="DSSC-Energy-Band.png" alt="DSSC Energy Band" width="800"> 
 
 *Illustrates electron–hole separation and charge transport in dye-sensitized solar cells. Designed to support instruction in renewable energy and semiconductor physics.*  
 
 
 
 **Pendulum Motion on a Swing**  
-<img src="swings.png" alt="swings" width="1000"> 
+<img src="swings.png" alt="swings" width="800"> 
 
 *Illustration of a swing modeled as a pendulum with a 2 m chain, oscillating up to ±30° from the vertical. Useful for teaching concepts of simple harmonic motion, angular displacement, and energy transformation in mechanics.*  
 
