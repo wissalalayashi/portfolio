@@ -36,8 +36,9 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ## 🎬 Animations  
  
 
-**Band Gap Animation**  
-![Band Gap Animation](assets/animations/bandgap.gif)  
+**DSSC (Dye-Sensitized Solar Cell) Animation**  
+![DSSC (Dye-Sensitized Solar Cell) Animation](DSSC.gif)  
+*Animated sequence showing how sunlight excites dye molecules, injects electrons into TiO₂, and drives current through the external circuit. Highlights charge transfer, electrolyte regeneration, and energy conversion in dye-sensitized solar cells.*
 
 **Perovskite Solar Cell Animation** 
 ![Perovskite Animation](RECOVER_Perovskite-1.gif)
