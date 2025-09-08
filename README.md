@@ -58,5 +58,5 @@ I create clear, engaging scientific illustrations and animations that make compl
 
 **Semiconductor Bandgap Animation**
 ![Band-gap-coloured](Band-gap-coloured.gif)  
-Blue characters represent electrons (e⁻), and red hollow characters represent holes (h⁺). A photon (hv) excites an electron from the valence band to the conduction band, leaving behind a hole. The vertical arrow (Eg) marks the bandgap energy. This illustrates charge carrier generation, the foundation of semiconductor operation.
+Animation showing an electron starting in the valence band and being excited across the bandgap into the conduction band when sufficient energy (hν) is absorbed. The transition illustrates how charge carriers are generated in semiconductors, forming the basis of electronic and optoelectronic device operation.
 
