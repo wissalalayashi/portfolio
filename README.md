@@ -12,10 +12,9 @@ Special focus: **semiconductors, photovoltaics, display technologies, and microf
 ## 🖼️ Semiconductor Diagrams  
 
 **DSSC Energy Band**  
-![DSSC Energy Band](DSSC-Energy-Band.png) 
 <img src="DSSC-Energy-Band.png" alt="DSSC Energy Band" width="400"> 
 *Illustrates electron–hole separation and charge transport in dye-sensitized solar cells. Designed to support instruction in renewable energy and semiconductor physics.*  
-<img src="DSSC-Energy-Band.png" alt="DSSC Energy Band" width="400">
+
 
 
 **Perovskite Structure**  
