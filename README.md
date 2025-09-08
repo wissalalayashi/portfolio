@@ -58,5 +58,5 @@ I create clear, engaging scientific illustrations and animations that make compl
 
 **Semiconductor Bandgap Animation**
 ![Band-gap-coloured](Band-gap-coloured.gif)  
-Animation showing an electron starting in the valence band and being excited across the bandgap into the conduction band when sufficient energy (hν) is absorbed. The transition illustrates how charge carriers are generated in semiconductors, forming the basis of electronic and optoelectronic device operation.
+*Animation showing an electron starting in the valence band and being excited across the bandgap into the conduction band when sufficient energy (hν) is absorbed. The transition illustrates how charge carriers are generated in semiconductors, forming the basis of electronic and optoelectronic device operation.*
 
