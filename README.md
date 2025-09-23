@@ -41,7 +41,7 @@ I create clear, engaging scientific illustrations and animations that make compl
  
 
 **DSSC (Dye-Sensitized Solar Cell) Animation**  
-![DSSC (Dye-Sensitized Solar Cell) Animation](DSSC-solar cell.gif)  
+![DSSC (Dye-Sensitized Solar Cell) Animation](DSSC-solar-cell.gif)  
 *Animated sequence showing how sunlight excites dye molecules, injects electrons into TiO₂, and drives current through the external circuit. Highlights charge transfer, electrolyte regeneration, and energy conversion in dye-sensitized solar cells.*
 
 **Perovskite Solar Cell Animation** 
