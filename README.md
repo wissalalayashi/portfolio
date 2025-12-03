@@ -1,10 +1,10 @@
 # Wissal Alayashi, PhD  
-*STEM Animations & Technical Illustrations for Science and Engineering Education*  
+*Scientific & Technical Illustrations for Complex STEM and Engineering Topics*  
 
 ---
 ## 📘 About  
 
-I create clear, engaging scientific illustrations and animations that make complex STEM concepts accessible for students, educators, and publishers. My portfolio spans topics across physics, renewable energy, materials science, and engineering processes, always with a focus on accuracy and visual clarity.  
+I create technical illustrations and animations that make complex STEM and semiconductor concepts easy to understand. My work spans physics, materials science, thin-film processes, microfabrication, and renewable energy, with a focus on accuracy and visual clarity
 
 ---
 
