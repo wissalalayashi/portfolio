@@ -44,6 +44,12 @@ I create clear, engaging scientific illustrations and animations that make compl
 ![DSSC (Dye-Sensitized Solar Cell) Animation](DSSC-solar-cell.gif)  
 *Animated sequence showing how sunlight excites dye molecules, injects electrons into TiO₂, and drives current through the external circuit. Highlights charge transfer, electrolyte regeneration, and energy conversion in dye-sensitized solar cells.*
 
+
+**E-Beam Evaporation Process **  
+![PVD-Ebeam-normal) Animation](PVD-Ebeam-normal.mp4)  
+
+A short visualization of the PVD e-beam evaporation process, highlighting material evaporation, line-of-sight deposition, and thin-film formation under high vacuum.
+
 **Perovskite Solar Cell Animation** 
 ![Perovskite Animation](RECOVER_Perovskite-1.gif)
 *Layers (top→bottom): **Metal** — back electrode; **ETL** — electron transport to the electrode; **Perovskite** — light-absorbing active layer; **HTL** — hole transport to the electrode; **TCO** — **transparent conductive oxide** (e.g., ITO or FTO) that is optically transparent and acts as the front electrode for charge collection; **Glass** — rigid, transparent substrate.*  
