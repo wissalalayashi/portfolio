@@ -46,7 +46,7 @@ I create clear, engaging scientific illustrations and animations that make compl
 
 
 **E-Beam Evaporation Process **  
-![PVD-Ebeam-normal) Animation](PVD-Ebeam-normal.mp4)  
+![PVD-Ebeam-normal) Animation](PVD-Ebeam-normal-10sec.gif)  
 
 A short visualization of the PVD e-beam evaporation process, highlighting material evaporation, line-of-sight deposition, and thin-film formation under high vacuum.
 
